@@ -1,0 +1,9 @@
+syntax: glob
+.classpath
+.project
+.settings/**
+target/**
+wc/dist/**
+wc/node_modules/**
+.idea/**
+wc/package-lock.json
